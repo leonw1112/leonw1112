@@ -3,7 +3,7 @@
 I'm a passionate developer with interests in web development, mobile development, open source, and AI. I love exploring new technologies and building projects that make a difference.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, TypeScript, HTML, CSS, Dart, Java
+- **Languages:** Python, C#, HTML, CSS, Dart, Java
 - **Frameworks:** Node.js, Express, Django, Flutter, Bootstrap
 - **Tools:** Git, Docker, Kubernetes, AWS, Firebase, Bootstrap Studio
 - **Databases:** MongoDB, PostgreSQL, MySQL
